@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="OIL-T ENERGY GROUP OÜ" width="400px">
+# <img src="logo.png" alt="OIL-T ENERGY GROUP OÜ" width="200px">
 
 # Oil-T Smart Contracts
 Smart contract for OIL-T ENERGY GROUP OÜ Token
